@@ -22,6 +22,8 @@ html:before, body:before {
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
+    opacity: 1;
+    transform: rotate(180deg);
 }
 .text-shadow {
     text-shadow: 0px 2px 0px #000;
